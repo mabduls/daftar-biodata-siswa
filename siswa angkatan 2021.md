@@ -10,14 +10,14 @@
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
-   Alamat : Jln. Bantuas RT.01 No.18
+   Alamat : Jln. Bantuas RT.01 No.20
  
 3. Nama   : Indah Istiqomah
    NIM    : H2020000003
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 22 Desember 2002
-   Alamat : Jln. Keledang RT.13 No.26
+   Alamat : Jln. Keledang RT.13 No.5
  
 4. Nama   : Ilham ILyas
    NIM    : H2020000004
